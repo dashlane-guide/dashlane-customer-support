@@ -1,2 +1,2 @@
-.GITHUB
-==========
+# .GITHUB
+Dashlane customer support
