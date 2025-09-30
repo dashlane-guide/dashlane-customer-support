@@ -1,1 +1,1 @@
-# dashlane-customer-support
+.GITHUB
